@@ -3,5 +3,6 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <h1>Playtime</h1>
     <p>Ben je geïnteresseerd? Neem contact op met de heer Bart Plasman of de heer Tony Kerkhove.</p>
+    <p>Dja Nan</p>
 </asp:Content>
 
