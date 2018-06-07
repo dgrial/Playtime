@@ -7,6 +7,7 @@
             <p>Van <%# Eval("GepostDoor") %><br />
                 Op <%# Eval("GepostOp") %></p>
             <p>Bericht:<%# Eval("Bericht") %></p>
+            <p>Habib</p>
             <hr />
         </ItemTemplate>
     </asp:Repeater>
