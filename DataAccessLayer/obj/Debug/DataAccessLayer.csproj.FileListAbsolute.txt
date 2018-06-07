@@ -1,0 +1,32 @@
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\DataAccessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\DataAccessLayer\bin\Debug\MySql.Data.dll
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\DataAccessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\DataAccessLayer\bin\Debug\BusinessLayer.dll
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\DataAccessLayer\bin\Debug\BusinessLayer.pdb
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\DataAccessLayer\bin\Debug\BusinessLayer.dll
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\DataAccessLayer\bin\Debug\BusinessLayer.pdb
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+P:\SWP\ASP.NET\Websites\Playtime\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+P:\SWP\ASP.NET\Websites\Playtime\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+P:\SWP\ASP.NET\Websites\Playtime\DataAccessLayer\bin\Debug\BusinessLayer.dll
+P:\SWP\ASP.NET\Websites\Playtime\DataAccessLayer\bin\Debug\MySql.Data.dll
+P:\SWP\ASP.NET\Websites\Playtime\DataAccessLayer\bin\Debug\BusinessLayer.pdb
+P:\SWP\ASP.NET\Websites\Playtime\DataAccessLayer\bin\Debug\MySql.Data.xml
+P:\SWP\ASP.NET\Websites\Playtime\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+P:\SWP\ASP.NET\Websites\Playtime\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+P:\SWP\ASP.NET\Websites\Playtime\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+P:\SWP\ASP.NET\Websites\Playtime\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

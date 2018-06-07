@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="playtime.master.cs" Inherits="spellenclub" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+    <title>Playtime</title> 
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <form id="form1" runat="server">
+
+    <div id="container">
+
+        <header><h1>Spellenclub</h1></header>
+
+        <nav>
+            <ul>
+                <li><a href="home.aspx">Home</a></li>
+                <li><a href="spellen2.aspx">Spellen</a></li>
+                <li><a href="contact.aspx">Contact</a></li>
+                <li><a href="gastenboek.aspx">Gastenboek</a></li>
+            </ul>
+        </nav>
+
+        <section id="main">
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </section>
+
+        <footer><p>Spellenclub</p></footer>
+
+    </div>
+    </form>
+</body>
+</html>

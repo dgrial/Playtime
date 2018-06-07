@@ -1,0 +1,44 @@
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\PresentationLayer\bin\PresentationLayer.dll.config
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\PresentationLayer\bin\PresentationLayer.dll
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\PresentationLayer\bin\PresentationLayer.pdb
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\PresentationLayer\bin\BusinessLayer.dll
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\PresentationLayer\bin\DataAccessLayer.dll
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\PresentationLayer\bin\MySql.Data.dll
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\PresentationLayer\bin\BusinessLayer.pdb
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\PresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\PresentationLayer\obj\Debug\PresentationLayer.pdb
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\PresentationLayer\bin\PresentationLayer.dll.config
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\PresentationLayer\bin\PresentationLayer.dll
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\PresentationLayer\bin\PresentationLayer.pdb
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\PresentationLayer\bin\BusinessLayer.dll
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\PresentationLayer\bin\DataAccessLayer.dll
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\PresentationLayer\bin\BusinessLayer.pdb
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\PresentationLayer\bin\DataAccessLayer.pdb
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\PresentationLayer\obj\Debug\PresentationLayer.dll
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\PresentationLayer\obj\Debug\PresentationLayer.pdb
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\PresentationLayer\bin\PresentationLayer.dll.config
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\PresentationLayer\bin\PresentationLayer.dll
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\PresentationLayer\bin\PresentationLayer.pdb
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\PresentationLayer\bin\BusinessLayer.dll
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\PresentationLayer\bin\DataAccessLayer.dll
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\PresentationLayer\bin\BusinessLayer.pdb
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\PresentationLayer\bin\DataAccessLayer.pdb
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\PresentationLayer\obj\Debug\PresentationLayer.dll
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\PresentationLayer\obj\Debug\PresentationLayer.pdb
+P:\SWP\ASP.NET\Websites\Playtime\PresentationLayer\bin\PresentationLayer.dll.config
+P:\SWP\ASP.NET\Websites\Playtime\PresentationLayer\bin\PresentationLayer.dll
+P:\SWP\ASP.NET\Websites\Playtime\PresentationLayer\bin\PresentationLayer.pdb
+P:\SWP\ASP.NET\Websites\Playtime\PresentationLayer\bin\BusinessLayer.dll
+P:\SWP\ASP.NET\Websites\Playtime\PresentationLayer\bin\DataAccessLayer.dll
+P:\SWP\ASP.NET\Websites\Playtime\PresentationLayer\bin\MySql.Data.dll
+P:\SWP\ASP.NET\Websites\Playtime\PresentationLayer\bin\BusinessLayer.pdb
+P:\SWP\ASP.NET\Websites\Playtime\PresentationLayer\bin\DataAccessLayer.pdb
+P:\SWP\ASP.NET\Websites\Playtime\PresentationLayer\bin\MySql.Data.xml
+P:\SWP\ASP.NET\Websites\Playtime\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+P:\SWP\ASP.NET\Websites\Playtime\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+P:\SWP\ASP.NET\Websites\Playtime\PresentationLayer\obj\Debug\PresentationLayer.dll
+P:\SWP\ASP.NET\Websites\Playtime\PresentationLayer\obj\Debug\PresentationLayer.pdb

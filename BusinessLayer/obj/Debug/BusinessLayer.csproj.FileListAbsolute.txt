@@ -1,0 +1,21 @@
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Annick\Dropbox\nieuw leerplan IB 2015-2016\3-lagen\20170106\webapplicaties\Playtime\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\2016_2017\Annick_3lagen_ASPNET\20170110_1110_Playtime\Playtime\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\2016_2017\GLE_ASP_NET\brongegevens\websites\Playtime\BusinessLayer\obj\Debug\BusinessLayer.pdb
+P:\SWP\ASP.NET\Websites\Playtime\BusinessLayer\bin\Debug\BusinessLayer.dll
+P:\SWP\ASP.NET\Websites\Playtime\BusinessLayer\bin\Debug\BusinessLayer.pdb
+P:\SWP\ASP.NET\Websites\Playtime\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+P:\SWP\ASP.NET\Websites\Playtime\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+P:\SWP\ASP.NET\Websites\Playtime\BusinessLayer\obj\Debug\BusinessLayer.dll
+P:\SWP\ASP.NET\Websites\Playtime\BusinessLayer\obj\Debug\BusinessLayer.pdb
